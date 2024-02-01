@@ -1,0 +1,11 @@
+body{
+background-color: rgb(53, 120, 120);
+}
+
+.me-auto > img{
+    width: 50%;
+    height: 50%;
+    margin-left: 35%;
+
+    border: 2px solid;
+}

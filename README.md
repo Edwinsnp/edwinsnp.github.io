@@ -1,1 +1,0 @@
-# edwinsnp.github.io
